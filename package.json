@@ -1,7 +1,7 @@
 {
-  "name": "prettyRes",
+  "name": "prettyres",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Pretty Response for express apps",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
